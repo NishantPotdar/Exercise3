@@ -1,0 +1,12 @@
+p::first-letter{
+    color: blueviolet;
+    font-style: bold;
+    font-size: 3pc;
+}
+p::first-line{
+    color:rgb(255, 0, 64);
+}
+p{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 2pc;
+}
